@@ -13,11 +13,8 @@ DURATION: 4 WEEKS
 MENTOR: NEELA SANTOSH
 
 ##########################
-AI-Based Recommendation System using Java and Apache Mahout
+AI-Based Recommendation System 
 
-Author: Sakshi Thele
-
-Instructions:
 1. Install Eclipse and Apache Maven.
 2. Add Mahout dependency in pom.xml:
    <dependency>
