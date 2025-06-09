@@ -13,6 +13,7 @@ DURATION: 4 WEEKS
 MENTOR: NEELA SANTOSH
 
 ##########################
+
 AI-Based Recommendation System 
 
 1. Install Eclipse and Apache Maven.
