@@ -28,7 +28,9 @@ AI-Based Recommendation System
 5. View the recommended items in the console.
 
 Sample Output:
+
 Recommended Item: 102 | Estimated Preference: 4.25
+
 Recommended Item: 103 | Estimated Preference: 3.75
 
 
